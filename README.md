@@ -1,56 +1,45 @@
 # 👋 Hi, I'm Diwakar Khadka
-### Full-Stack & Computer Vision Engineer | Crafting High-Performance Systems & Intelligent Applications
+**Robotics • Automation • Controls • Autonomous Systems**
 
-I am a software engineer specializing in building high-performance systems, computer vision pipelines, and intelligent interactive applications. I bridge the gap between machine learning models and robust full-stack software architectures to solve complex, real-world problems.
+## 👨‍💻 About Me
+I am a Robotics & Automation engineer and graduate student at Wright State University, passionate about bridging the gap between intelligent algorithms and physical hardware. My work spans across PLCs, autonomous vehicles, control system simulations, and building practical web tooling to streamline engineering workflows. I thrive on creating real, working systems—from self-driving algorithms to automated static analyzers.
 
----
+## 🛠️ Skills & Tech Stack
+- **Robotics & Controls:** PLC (Siemens, Allen-Bradley, Codesys), ROS/ROS2, Control Systems, PID, Kinematic Modeling, Autonomous Vehicles
+- **Software & Algorithms:** Python, C++, OpenCV, NumPy, Computer Vision, Object Tracking
+- **Web & Tooling:** TypeScript, JavaScript, Next.js, React, GitHub Agents, Docker, Git, Vercel
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### ⚽ [2026 World Cup Autonomous Vision Pipeline](https://github.com/diwakar57/Fifa2026)
-*Real-time Football Tactical Tracking & Viral Content Generation*
-* **Core Tech:** Python, YOLOv8, ByteTrack, K-Means Clustering, Homography projection, OpenCV
-* **What it does:** An automated computer vision pipeline that processes raw broadcast match footage, dynamically tracks players/ball, clusters jerseys for team identification, and projects coordinates to a 2D pitch map for real-time analytics.
-* **Impact:** Ready-to-use content automation optimized for modern social media engagement.
+### 🏎️ [Omnipath Control Sim](https://github.com/diwakar57/omnipath-control-sim)
+Modular simulation environment for autonomous vehicle control, implementing Kinematic Bicycle Models and PID trajectory tracking. Bridges the gap between theoretical kinematics and deployable control algorithms.
+*Tech: Python, Control Systems, PID, Kinematics*
 
-#### 🗺️ [Atlas Code Cartographer](https://github.com/diwakar57/Atlas-Code-Cartographer)
-*Semantic Codebase Visualization & Discovery Engine*
-* **Core Tech:** TypeScript, AST Parsing, Graph Networks, React
-* **What it does:** Helps developers visualize architecture, dependencies, and complex logical pathways of large-scale codebases dynamically, acting as a visual map for fast onboarding and refactoring.
+### 🛣️ [QCar Advanced Lane Detection](https://github.com/diwakar57/qcar-advanced-lane-detection)
+Robust self-driving lane detection system built for the QCar platform. Processes visual streams to identify lane boundaries and assist in autonomous navigation and centering.
+*Tech: Python, OpenCV, Computer Vision*
 
-#### 🏎️ [OmniPath Control Sim](https://github.com/diwakar57/omnipath-control-sim)
-*Autonomous Vehicle Simulation & Control System*
-* **Core Tech:** Python, NumPy, Matplotlib, Control Theory (PID)
-* **What it does:** Implements kinematic bicycle models, path tracking (PID controllers), and trajectory optimization for automated vehicle dynamics.
+### ⚽ [FIFA 2026 Tactical Tracker](https://github.com/diwakar57/Fifa2026)
+Real-time football tactical tracking and viral content generation system. Leverages YOLOv8 and ByteTrack to track players, cluster jersey colors, and generate analytical overlays.
+*Tech: Python, YOLOv8, ByteTrack, Computer Vision*
 
-#### 🎙️ [Echo AI](https://github.com/diwakar57/Echo_AI)
-*Next-Gen Conversational Intelligence Agent*
-* **Core Tech:** TypeScript, Node.js, LLM Integration, Event-Driven Architecture
-* **What it does:** Modular AI agent builder designed to integrate seamlessly with various external workspace tools, APIs, and voice interfaces.
+### 🔍 [Universal Visual Static Analyzer](https://github.com/diwakar57/universal_visual_static_analyzer)
+A visual static code analysis tool that parses ASTs to provide code quality insights and structural complexity metrics, helping engineers manage and refactor large codebases.
+*Tech: TypeScript, AST, Static Analysis, React*
 
----
+### 🤖 [Echo AI Framework](https://github.com/diwakar57/Echo_AI)
+Next-generation conversational AI agent and workspace workflow execution framework. Automates development workflows and integrates seamlessly into engineering environments.
+*Tech: TypeScript, AI Agents, Automation*
 
-### 🛠️ Technical Toolkit
+## 🔭 What I'm Working On
+- Refining advanced lane detection and vision algorithms for the QCar autonomous platform.
+- Developing modular robotics control simulations (PID, Kinematics) for trajectory tracking.
+- Exploring AI agents and automated development workflows to improve engineering productivity.
+- Packaging computer vision and tactical tracking models for real-world analytics.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, SQL, HTML5/CSS3 |
-| **AI / Computer Vision** | YOLOv8, ByteTrack, OpenCV, PyTorch, K-Means (Scikit-Learn) |
-| **Frameworks & Libs** | Node.js, React, Express, FastAPI, TailwindCSS |
-| **Tools & Infrastructure** | Git/GitHub, Docker, Linux Shell Scripting, YAML Configs |
+## 🎯 Career Goals
+Seeking full-time roles in **Robotics, Controls, or Autonomous Systems Engineering**, where I can architect, build, and deploy intelligent automation systems, control models, and scalable robotics software.
 
----
-
-### 📊 GitHub Analytics & Status
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=diwakar57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Diwakar's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar57&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
-</p>
-
----
-
-### 📬 Connect With Me
-* 📍 Located in the **USA**
-* 💼 Open to roles in **Computer Vision Engineering, Full-Stack Development, and AI System Integration**.
-* ✉️ Contact me directly through my GitHub email or open an issue/PR to collaborate!
+## 📫 Let's Connect
+- **Email:** khadka.57@wright.edu
+- **LinkedIn:** [linkedin.com/in/diwakar-khadka](https://linkedin.com/in/diwakar-khadka)
