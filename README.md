@@ -41,5 +41,5 @@ Next-generation conversational AI agent and workspace workflow execution framewo
 Seeking full-time roles in **Robotics, Controls, or Autonomous Systems Engineering**, where I can architect, build, and deploy intelligent automation systems, control models, and scalable robotics software.
 
 ## 📫 Let's Connect
-- **Email:** khadka.57@wright.edu
+- **Email:** priv.diwakarkhadka@gmail.com
 - **LinkedIn:** [linkedin.com/in/diwakar-khadka](https://linkedin.com/in/diwakar-khadka)
